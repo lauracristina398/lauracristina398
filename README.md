@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Sou aluno do Samac
 <!--
 **lauracristina398/lauracristina398** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
